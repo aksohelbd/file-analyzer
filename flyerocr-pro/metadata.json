@@ -1,0 +1,7 @@
+{
+  "name": "FlyerOCR Pro",
+  "description": "A professional-grade OCR and data entry tool for extracting product details and pricing from supermarket flyers into structured tables.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
